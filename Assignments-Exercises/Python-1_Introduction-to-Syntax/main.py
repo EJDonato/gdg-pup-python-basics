@@ -1,9 +1,9 @@
 # This program explores Python syntax, variables, data types, and basic operators.
 
 # 1. Declare variables of different types
-name = "Sparky"  # string
-age = 25        # integer
-height = 5.6     # float
+name = "Elton"  # string
+age = 19        # integer
+height = 5.9     # float
 is_student = True  # boolean
 
 # 2. Perform basic arithmetic operations
@@ -23,6 +23,3 @@ print("Type of name:", type(name))
 print("Type of age:", type(age))
 print("Type of height:", type(height))
 print("Type of is_student:", type(is_student))
-
-
-# this is me
